@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Dancer-Plugin-Auth
-version:            0.1
+version:            0.2
 abstract:           systeme authentication for Dancer applications.
 author:
     - Natal Ngétal <hobbestig@cpan.org>
